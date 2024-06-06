@@ -1,5 +1,8 @@
 import = [
 	"C:\\Users\\Raksmey\\AppData\\Roaming\\alacritty\\themes\\github-dark-tritanopia.toml",
+	# 	"C:\\Users\\Joe\\AppData\\Roaming\\alacritty\\themes\\baitong.toml",
+	# "C:\\Users\\Joe\\AppData\\Roaming\\alacritty\\themes\\catppuccin-macchiato.toml",
+		# "C:\\Users\\Joe\\AppData\\Roaming\\alacritty\\themes\\nightfly.toml",
 ]
 
 [window]
