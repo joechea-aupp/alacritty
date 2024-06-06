@@ -1,5 +1,5 @@
 import = [
-	"C:\\Users\\Joe\\AppData\\Roaming\\alacritty\\themes\\github-dark-tritanopia.toml",
+	"C:\\Users\\Raksmey\\AppData\\Roaming\\alacritty\\themes\\github-dark-tritanopia.toml",
 ]
 
 [window]
@@ -24,6 +24,6 @@ size = 12
 
 [shell]
 
-args = ["--cd ~"]
-program = 'C:\Windows\System32\wsl.exe'
+# args = ["--cd ~"]
+program = 'ubuntu2004.exe'
 
